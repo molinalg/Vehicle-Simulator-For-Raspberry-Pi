@@ -3,7 +3,7 @@
 ## Description
 Developed in 2024, "Vehicle Simulator With Raspberry Pi" is a university project made during the fourth course of Computer Engineering at UC3M in collaboration with @EnriqueMorenoG88.
 
-It was made for the subject "Foundations of Internet of Things" and corresponds to one of the practices of this course. The main goal of the project is to learn how to program code that use **sensors** and **actuators** in **Python**. These components were part of a circuit mounted on a **breadboard** and connected to a **Raspberry Pi 3B**.
+It was made for the subject "Foundations of Internet of Things" and corresponds to one of the practices of this course. The main goal of the project is to learn how to program code that uses **sensors** and **actuators** in **Python**. These components were part of a circuit mounted on a **breadboard** and connected to a **Raspberry Pi 3B**.
 
 **NOTE:** Part of the code and the comments are in spanish.
 
